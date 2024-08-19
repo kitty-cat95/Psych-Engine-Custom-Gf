@@ -1,0 +1,9 @@
+{
+	"name": "Custom Gf Dance Title",
+	"description": "This Is An Example Of A Custom Gf Dance Title!.",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [255, 74, 113],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}
